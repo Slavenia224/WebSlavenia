@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.header__wrapper {
+    background-color: #007BFF;
+    max-width: 800px;
+    margin: auto;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px 8px 0 0;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 0 0 8px 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.biography_element {
+    margin-bottom: 20px;
+}
+
+.biography_content {
+    margin-top: 10px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.socials_wrapper p {
+    margin: 5px 0;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
